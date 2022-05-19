@@ -1,0 +1,18 @@
+{
+  "name": "javascript_engage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App_Express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dlib": "^0.0.99",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "face-api.js": "^0.22.2",
+    "nodemon": "^2.0.16"
+  }
+}
